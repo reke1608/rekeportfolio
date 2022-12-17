@@ -1,5 +1,7 @@
 ---
-role: Professor of Artificial Intelligence
+title: Ferdinand Avikpe
+role: ""
+avatar_filename: reke.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -37,7 +39,6 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-title: Ferdinand Avikpe
 email: ""
 ---
 
