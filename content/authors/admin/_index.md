@@ -18,7 +18,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?view_op=list_works&hl=en&user=MXeyvPUAAAAJ
-  - icon: Research Gate
+  - icon: ResearchGate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Ferdinand-Avikpe
 organizations:
