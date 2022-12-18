@@ -17,10 +17,7 @@ content:
 
   email: avikpeferdinand@outlook.com
   phone: (431) 337-8623
-  address:
-    street: Pembina Hwy
-    city: Winnipeg
-    region: MB
+
  
   #contact_links:
   #  - icon: comments
