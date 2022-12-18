@@ -36,7 +36,7 @@ education:
       year: 2022
 superuser: true
 user_groups:
-  - Researchers
+  - Principal Investigators
 highlight_name: false
 email: ""
 ---
