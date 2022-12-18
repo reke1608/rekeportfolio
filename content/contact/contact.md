@@ -44,4 +44,4 @@ design:
   columns: '1'
 ---
 
-Reach out to learn more about my work, or to become yourself. 
+Reach out to learn more about my work, or to become involved yourself. 
