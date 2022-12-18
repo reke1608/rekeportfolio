@@ -1,7 +1,7 @@
 ---
 title: Ferdinand Avikpe
 role: ""
-avatar_filename: 
+avatar_filename: Reke.jpg
 bio: ""
 interests:
   - Nanotechnology
