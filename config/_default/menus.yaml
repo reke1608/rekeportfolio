@@ -13,9 +13,13 @@ main:
   - name: People
     url: people
     weight: 30
+  - name: Research
+    identifier: research
+    weight: 40 
   - name: Publications 
-    url: publication
-    weight: 40
+    parent: research
+    url: research/publications
+    weight: 30
   - name: Contact
     url: contact
     weight: 50
