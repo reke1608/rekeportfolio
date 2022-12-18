@@ -26,7 +26,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: "BSc(Hons) in Biochemistry "
+    - course: BSc(Hons) in Biochemistry
       institution: The University of Winnipeg
       year: 2022
     - course: BA in Mathematics
