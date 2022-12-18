@@ -21,7 +21,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: 
+        media: ![Ochem](https://user-images.githubusercontent.com/68233617/208276080-55e8a16b-56d5-4706-94f5-6a725cb02440.png)
     - title: Academics leadership and service...
       content: These three pillars have been the backbone of my work 
       align: left
