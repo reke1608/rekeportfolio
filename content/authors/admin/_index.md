@@ -2,8 +2,7 @@
 title: Ferdinand Avikpe
 role: ""
 avatar_filename: null
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Nanotechnology
   - Molecular Genetics
