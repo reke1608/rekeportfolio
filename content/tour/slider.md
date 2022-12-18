@@ -29,7 +29,8 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.unlv.edu%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1140_width%2Fpublic%2Fpg_images%2F27%2FSLL-Heffernan-SL-Adaptation.png%3Fitok%3Da23TQtbM&imgrefurl=https%3A%2F%2Fwww.unlv.edu%2Fsll%2Fservice%2Facademic-service-learning&tbnid=LopYks22WhzgsM&vet=12ahUKEwjxo_3ZgoL8AhW5rXIEHcmfBJQQMygEegUIARDNAQ..i&docid=nKtI55yE3lKXmM&w=768&h=512&q=academics%2C%20leadership%20and%20service&client=safari&ved=2ahUKEwjxo_3ZgoL8AhW5rXIEHcmfBJQQMygEegUIARDNAQ
+        media: ![SLL-Heffernan-SL-Adaptation](https://user-images.githubusercontent.com/68233617/208275508-c2fe10fd-7429-40c8-b2b2-cab5da4a7b94.png)
+      
       link:
         text: Learn more
         url: ../people/
