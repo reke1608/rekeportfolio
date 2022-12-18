@@ -15,7 +15,11 @@ main:
     weight: 30
   - name: Research
     identifier: research
-    weight: 40 
+    weight: 40
+  - name: Projects 
+    parent: research
+    url: research/projects
+    weight: 30
   - name: Publications 
     parent: research
     url: research/publications
