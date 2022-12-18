@@ -1,7 +1,7 @@
 ---
 title: Ferdinand Avikpe
 role: ""
-avatar_filename: ![Reke](https://user-images.githubusercontent.com/68233617/208272305-36a49ca2-f3b7-4c64-93ad-77ee0a3e1577.jpg)
+avatar_filename: 
 bio: ""
 interests:
   - Nanotechnology
