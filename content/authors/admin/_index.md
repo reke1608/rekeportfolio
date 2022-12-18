@@ -64,7 +64,7 @@ highlight_name: true
 
 user_groups:
   - Principal Investigators
-highlight_name: false
+
 email: ""
 ---
 At the age of 15, I moved from Nigeria to Canada in pursuit of better quality education. This was one of the most difficult but rewarding decisions I had to make with my family. I am a recent graduate from the University of Winnipeg who majored in Biochemistry and Mathematics. In my introductory and upper level course work, I have developed a strong passion for science specifically in the fields of biochemistry, molecular genetics, biomedical engineering (nanotechnology) and mathematical biology. This has made me extremely interested in pursuing exciting research and work opportunities in these fields. 
