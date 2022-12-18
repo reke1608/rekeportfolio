@@ -77,6 +77,7 @@ features:
   avatar:
     gravatar: true
     shape: circle
+    avatar_filename: Reke.jpg
   comment:
     provider: ''
     disqus:
