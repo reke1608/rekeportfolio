@@ -1,7 +1,7 @@
 ---
 title: Ferdinand Avikpe
 role: ""
-avatar_filename: null
+avatar_filename: ![Reke](https://user-images.githubusercontent.com/68233617/208272305-36a49ca2-f3b7-4c64-93ad-77ee0a3e1577.jpg)
 bio: ""
 interests:
   - Nanotechnology
@@ -17,9 +17,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?view_op=list_works&hl=en&user=MXeyvPUAAAAJ
-  - icon: ResearchGate
-    icon_pack: fab
+  - icon: researchgate
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Ferdinand-Avikpe
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ferdinandavikpe
 organizations:
   - name: The University of Winnipeg
     url: ""
