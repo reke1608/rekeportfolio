@@ -17,7 +17,6 @@ content:
   slides:
     - title: Welcome to my space
       content: Here to contribute to societal development and inspire young people.
-      slide_height: '150px'
       align: left
       background:
         position: right
@@ -29,6 +28,7 @@ content:
         icon_pack: fas
         text: Learn more
         url: ../people/
+        align: right
     - title: Academics, leadership and service...
       content: These three pillars have been the backbone of my work. 
       slide_height: '150px'
@@ -40,7 +40,8 @@ content:
         media: SLL-Heffernan-SL-Adaptation.png
       link:
         icon: memo
-        icon_pack: fas
+        icon_pack: fab
         text: Learn more
         url: ../publications/
+        align: right
 ---
