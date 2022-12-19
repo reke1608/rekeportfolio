@@ -26,11 +26,11 @@ main:
     weight: 40
   - name: Leadership
     parent: experience
-    url: experience/leadership
+    url: leadership
     weight: 30
   - name: Volunteer
     parent: experience
-    url: experience/volunteer
+    url: volunteer
     weight: 30
   - name: Contact
     url: contact
