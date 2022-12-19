@@ -19,9 +19,10 @@ content:
       content: Here to contribute to societal development and inspire young people.
       align: left
       background:
+        height: '140px'
         position: right
         color: '#666'
-        brightness: 0.7
+        brightness: 0.5
         media: Ochem.png
       link:
         icon: user
@@ -32,6 +33,7 @@ content:
       content: These three pillars have been the backbone of my work. 
       align: left
       background:
+        height: '140px'
         position: center
         color: '#555'
         brightness: 0.7
