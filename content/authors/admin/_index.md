@@ -1,6 +1,6 @@
 ---
 title: Ferdinand Avikpe
-avatar_filename: Reke.png
+avatar_filename: avatar.png
 superuser: true
 
 # Role/position
