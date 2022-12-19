@@ -15,11 +15,11 @@ main:
     weight: 30
   - name: Projects 
     parent: research
-    url: research/project
+    url: project
     weight: 20
   - name: Publications 
     parent: research
-    url: research/publication
+    url: publication
     weight: 20
   - name: Contact
     url: contact
