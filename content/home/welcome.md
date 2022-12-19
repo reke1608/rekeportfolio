@@ -6,7 +6,7 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '100px'
+  slide_height: 120px
   is_fullscreen: true
   # Automatically transition through slides?
   loop: false
@@ -19,7 +19,6 @@ content:
       content: Here to contribute to societal development and inspire young people.
       align: left
       background:
-        height: '140px'
         position: right
         color: '#666'
         brightness: 0.5
@@ -33,7 +32,6 @@ content:
       content: These three pillars have been the backbone of my work. 
       align: left
       background:
-        height: '140px'
         position: center
         color: '#555'
         brightness: 0.7
