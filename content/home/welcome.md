@@ -36,7 +36,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: SLL-Heffernan-SL-Adaptation.png
+        media: Homepage.png
         fit: contain
       link:
         icon: magnifying-glass
