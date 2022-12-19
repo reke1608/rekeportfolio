@@ -21,6 +21,17 @@ main:
     parent: research
     url: publication
     weight: 20
+  - name: Experience
+    identifier: experience
+    weight: 40
+  - name: Leadership
+    parent: experience
+    url: experience/leadership
+    weight: 30
+  - name: Volunteer
+    parent: experience
+    url: experience/volunteer
+    weight: 30
   - name: Contact
     url: contact
-    weight: 40
+    weight: 50
