@@ -37,7 +37,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: science.png
-        fit: contain
+        fit: cover
       link:
         icon: magnifying-glass
         icon_pack: fas
