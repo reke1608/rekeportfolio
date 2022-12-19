@@ -5,6 +5,7 @@ active: true
 headless: true
 
 design:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: '150px'
   is_fullscreen: true
   # Automatically transition through slides?
@@ -15,6 +16,8 @@ design:
 content:
   slides:
     - title: Welcome to my space
+      content: Here to contribute to societal development and inspire young people.
+      slide_height: '150px'
       align: left
       background:
         position: right
@@ -22,10 +25,13 @@ content:
         brightness: 0.7
         media: Ochem.png
       link:
+        icon: user
+        icon_pack: fas
         text: Learn more
         url: ../people/
-    - title: Academics leadership and service...
+    - title: Academics, leadership and service...
       content: These three pillars have been the backbone of my work. 
+      slide_height: '150px'
       align: left
       background:
         position: center
@@ -33,6 +39,8 @@ content:
         brightness: 0.7
         media: SLL-Heffernan-SL-Adaptation.png
       link:
+        icon: memo
+        icon_pack: fas
         text: Learn more
-        url: ../people/
+        url: ../publications/
 ---
