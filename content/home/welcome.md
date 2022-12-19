@@ -37,8 +37,8 @@ content:
         brightness: 0.7
         media: SLL-Heffernan-SL-Adaptation.png
       link:
-        icon: memo-pad
-        icon_pack: far
+        icon: magnifying-glass
+        icon_pack: fas
         text: Learn more
         url: ../publications/
         
