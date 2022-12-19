@@ -38,7 +38,7 @@ content:
         media: SLL-Heffernan-SL-Adaptation.png
       link:
         icon: memo-pad
-        icon_pack: fab
+        icon_pack: fas
         text: Learn more
         url: ../publications/
 ---
