@@ -5,7 +5,6 @@ active: true
 headless: true
 
 design:
-  # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: '150px'
   is_fullscreen: true
   # Automatically transition through slides?
@@ -22,8 +21,11 @@ content:
         color: '#666'
         brightness: 0.7
         media: Ochem.png
+      link:
+        text: Learn more
+        url: ../people/
     - title: Academics leadership and service...
-      content: These three pillars have been the backbone of my work 
+      content: These three pillars have been the backbone of my work. 
       align: left
       background:
         position: center
