@@ -23,7 +23,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.5
-        media: organicchem.png
+        media: Ochem.png
       link:
         icon: user
         icon_pack: fas
