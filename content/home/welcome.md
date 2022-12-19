@@ -21,8 +21,9 @@ content:
       background:
         position: right
         color: '#666'
-        brightness: 0.5
+        brightness: 0.7
         media: Ochem.png
+        fit: cover
       link:
         icon: user
         icon_pack: fas
@@ -36,6 +37,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: SLL-Heffernan-SL-Adaptation.png
+        fit: cover
       link:
         icon: magnifying-glass
         icon_pack: fas
