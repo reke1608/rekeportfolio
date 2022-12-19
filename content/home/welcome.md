@@ -6,7 +6,7 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
+  slide_height: '300'
   is_fullscreen: true
   # Automatically transition through slides?
   loop: false
@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Welcome to my space
-      align: center
+      align: left
       background:
         position: right
         color: '#666'
