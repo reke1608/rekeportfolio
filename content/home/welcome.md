@@ -23,7 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: Ochem.png
-        fit: contain
+        fit: cover
       link:
         icon: user
         icon_pack: fas
