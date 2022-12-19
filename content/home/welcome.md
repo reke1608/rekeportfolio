@@ -28,10 +28,8 @@ content:
         icon_pack: fas
         text: Learn more
         url: ../people/
-        align: right
     - title: Academics, leadership and service...
       content: These three pillars have been the backbone of my work. 
-      slide_height: '150px'
       align: left
       background:
         position: center
@@ -40,8 +38,7 @@ content:
         media: SLL-Heffernan-SL-Adaptation.png
       link:
         icon: memo
-        icon_pack: fab
+        icon_pack: far
         text: Learn more
         url: ../publications/
-        align: right
 ---
