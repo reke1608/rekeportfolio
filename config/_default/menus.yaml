@@ -35,3 +35,8 @@ main:
   - name: Contact
     url: contact
     weight: 50
+  - name: About
+    url: authors/admin/about
+    weight: 60
+      
+
