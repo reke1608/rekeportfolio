@@ -1,7 +1,7 @@
 ---
 title: 'An example journal article'
 authors:
-  - admin
+  - Ferdinand Avikpe 
   - Robert Ford
 author_notes:
   - 'Equal contribution'
