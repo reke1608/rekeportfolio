@@ -19,7 +19,7 @@ links:
     url: https://twitter.com/Oghenereke1
 url_code: ''
 url_pdf: ''
-url_slides: 'https://rekeavikpe.com/kola-presentation.pptx'
+url_slides: ''
 url_video: ''
 
 # Slides (optional).
