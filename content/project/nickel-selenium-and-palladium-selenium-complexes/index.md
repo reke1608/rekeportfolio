@@ -30,8 +30,8 @@ url_video: ''
 slides: example
 ---
 
-There is a growing interest in metal complexes with selenium ligands. Unfortunately, literature on nickel and palladium complexes with selenium ligands is very scanty. Hence, the aim of this research project was to report nickel-selenium and palladium-selenium complexes and add to the existing research on nickel and palladium complexes with selenium ligands. 
+There is a growing interest in metal complexes with selenium ligands. Unfortunately, literature on nickel and palladium complexes with selenium ligands is very scanty. Hence, the aim of this research project was to report any nickel-selenium and palladium-selenium complexes and add to the existing research on nickel and palladium complexes with selenium ligands. Our results are presented in a PDF file attached to this page. 
 
-Our results are presented in a PDF file attached to this page. 
+In addition, I reviewed and followed experimental procedures for the preparation of inorganic compounds like nickel and palladium complexes and characterized obtained complexes using spectroscopic methods like NMR and IR.
 
 
