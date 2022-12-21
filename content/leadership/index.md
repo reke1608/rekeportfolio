@@ -23,11 +23,11 @@ sections:
           date_start: '2021-06-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Ensure the successful operation of the Chapter.
+              * Directed the completion of the Key Chapter Application. The UWGK Chapter won this award for the 7th time in a row, making us the longest-winning Chapter in Canada. 
+              * Work with Chapter Advisors and Officers to plan the annual calendar of activities.
+              * Coordinate the New Member Recognition Event.
+              * Aim for representation at the annual regional (Canadian) and biennial international conferences.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
