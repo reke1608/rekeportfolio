@@ -3,7 +3,7 @@ title: Separation and Purification of the Protein Content in Garcinia kola
 summary: Separated, purified, and characterized proteins from Garcinia kola seeds through sample preparation via slicing, oven-drying, grinding, defatting, and protein extraction using the urea/thiourea solubilization method, protein precipitation using the ammonium sulfate precipitation method, followed by SDS-PAGE analysis and Bradford Assay.
 tags:
   - Undergraduate
-date: '2016-04-27T00:00:00Z'
+date: '2022-12-05T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
