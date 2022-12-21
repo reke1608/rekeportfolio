@@ -1,6 +1,5 @@
 ---
 title: My page
-type: landing
 
 sections:
   - block: experience
