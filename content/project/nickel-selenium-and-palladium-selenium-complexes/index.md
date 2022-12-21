@@ -1,5 +1,5 @@
 ---
-title: Nicel-Selenium & Palladium-Selenium Complexes
+title: Nickel-Selenium & Palladium-Selenium Complexes
 summary: This project aimed to report new nickel-selenium and palladium-selenium complexes thereby adding to the existing knowledge of nickel complexes with selenium ligands. 
 tags:
   - Undergraduate
@@ -30,7 +30,7 @@ url_video: ''
 slides: example
 ---
 
-There is a growing interest in metal complexes with selenium ligands. Unfortunately, literature on nickel and palladium complexes with selenium ligands is very scanty. Hence, the aim of this reseaerch project was to report nickel-selenium and palladium-selenium complexes and add to the existing knowledge of nickel and palladium complexes with selenium ligands. 
+There is a growing interest in metal complexes with selenium ligands. Unfortunately, literature on nickel and palladium complexes with selenium ligands is very scanty. Hence, the aim of this research project was to report nickel-selenium and palladium-selenium complexes and add to the existing knowledge of nickel and palladium complexes with selenium ligands. 
 
 Our results are presented in a PDF file attached to this page. 
 
