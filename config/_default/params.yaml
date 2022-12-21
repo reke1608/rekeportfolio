@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Welcome to my space. I am a highly motivated individual here to contribute to societal development and inspire young people.'
+    description: 'Welcome to my space. I am a highly motivated individual here to contribute to societal development and inspire young people. I also share information about my academic pursuits'
     twitter: 'Oghenereke1'
   analytics:
     google_analytics: ''
@@ -31,7 +31,6 @@ marketing:
 
 header:
   navbar:
-    block: navbar
     enable: true
     align: r
     show_logo: true
