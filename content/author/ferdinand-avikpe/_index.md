@@ -14,9 +14,9 @@ organizations:
 bio: My research interests include molecular genetics, biochemistry and nanotecnnology. 
 
 interests:
-  - Molecular Genetics
+  - Nanomedicine
   - Cell Biochemistry 
-  - Nanotechnology
+  - Molecular Genetics
 
 education:
   courses:
