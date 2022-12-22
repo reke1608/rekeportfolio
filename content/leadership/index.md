@@ -45,15 +45,11 @@ sections:
           company_url: ''
           company_logo: goldenkey
           location: Winnipeg, MB
-          date_start: '2021-06-01'
-          date_end: ''
+          date_start: '2021-09-01'
+          date_end: '2022-04-01'
           description: |2-
-              * Ensure the successful operation of the Chapter.
-              * Directed the completion of the Key Chapter Application. The UWGK Chapter won this award for the 7th time in a row, making us the longest-winning Chapter in Canada. 
-              * Work with Chapter Advisors and Officers to plan the annual calendar of activities.
-              * Coordinate the New Member Recognition Event.
-              * Aim for representation at the annual regional (Canadian) and biennial international conferences.
-        - title: Vice President Events 
+              * Coordinated the planning and publicity of association events. These events included virtual and in-person events like Netflix parties and games nights.  
+        - title: Vice President Eventssssss 
           company: University of Winnipeg International Students Union (UWISU)
           company_url: ''
           company_logo: goldenkey
