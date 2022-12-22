@@ -15,13 +15,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Event Planner
-          company: Chemistry Students' Association (CHEMSA) - University of Winnipeg 
+        - title: President 
+          company: Golden Key International Honour Society, University of Winnipeg Chapter 
           company_url: ''
-          company_logo: chemsa
+          company_logo: goldenkey
           location: Winnipeg, MB
-          date_start: '2019-09-01'
-          date_end: '2020-03-01'
+          date_start: '2021-06-01'
+          date_end: ''
           description: |2-
               * Ensure the successful operation of the Chapter.
               * Directed the completion of the Key Chapter Application. The UWGK Chapter won this award for the 7th time in a row, making us the longest-winning Chapter in Canada. 
