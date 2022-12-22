@@ -42,6 +42,6 @@ content:
         icon: magnifying-glass
         icon_pack: fas
         text: Learn more
-        url: ../publications/
+        url: ../leadership/
         
 ---
