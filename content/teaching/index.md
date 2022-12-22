@@ -1,11 +1,11 @@
 ---
-title: 
+title: Teaching
 type: landing 
 
 sections:
   - block: experience
     content:
-      title: Experience
+      title: 
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
