@@ -38,5 +38,7 @@ main:
   - name: About
     url: author/ferdinand-avikpe
     weight: 60
-      
+  - name: Teaching 
+    url: teaching
+    weight: 70 
 
