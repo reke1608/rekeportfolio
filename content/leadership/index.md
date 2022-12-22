@@ -18,7 +18,7 @@ sections:
         - title: President 
           company: Golden Key International Honour Society, University of Winnipeg Chapter 
           company_url: ''
-          company_logo: org-gc
+          company_logo: goldenkey
           location: Winnipeg, MB
           date_start: '2021-06-01'
           date_end: ''
