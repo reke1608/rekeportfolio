@@ -97,7 +97,7 @@ sections:
         - title: Secretary  
           company: Chemistry Students' Association (CHEMSA) - University of Winnipeg 
           company_url: ''
-          company_logo: goldenkey
+          company_logo: chemsa
           location: Winnipeg, MB
           date_start: '2021-06-01'
           date_end: ''
