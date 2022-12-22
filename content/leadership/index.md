@@ -94,6 +94,15 @@ sections:
               * Kept members up to date with association events.
               * Maintained correspondence and records for the association.
               * Worked with the executive team and Biology students’ group to successfully organize a fundraiser on Valentine’s Day.
+        - title: Secretary  
+          company: Chemistry Students' Association (CHEMSA) - University of Winnipeg 
+          company_url: ''
+          company_logo: goldenkey
+          location: Winnipeg, MB
+          date_start: '2021-06-01'
+          date_end: ''
+          description: |2-
+              * Provided support to members and the executive team.
         - title: Secretary
           company: Chemistry Students' Association (CHEMSA) - University of Winnipeg
           company_url: ''
