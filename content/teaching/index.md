@@ -25,9 +25,8 @@ sections:
           description: |2-
               * Guided over 48 students in performing lab procedures, graded quizzes and assignments, and provided feedback to ensure students understood the material and stayed on track.  
               * Courses:
-          |2-
-                    * BIOL-2902: Biology of Bacteria and Archaea (Fall 2021)
-                    * BIOL-2301: Genetics (Winter 2022, Spring 2022)
+                o   BIOL-2902: Biology of Bacteria and Archaea (Fall 2021)
+                o   BIOL-2301: Genetics (Winter 2022, Spring 2022).
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
