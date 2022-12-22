@@ -28,10 +28,10 @@ sections:
               * Work with Chapter Advisors and Officers to plan the annual calendar of activities.
               * Coordinate the New Member Recognition Event.
               * Aim for representation at the annual regional (Canadian) and biennial international conferences.
-        - title: President 
+        - title: Director of Marketing
           company: Golden Key International Honour Society, University of Winnipeg Chapter 
           company_url: ''
-          company_logo: goldenkey
+          company_logo: chemsa
           location: Winnipeg, MB
           date_start: '2021-06-01'
           date_end: ''
