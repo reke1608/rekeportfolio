@@ -34,7 +34,7 @@ sections:
           company_logo: chemsa
           location: Winnipeg, MB
           date_start: '2021-06-01'
-          date_end: ''
+          date_end: '2022-08-01'
           description: |2-
               * Ensure the successful operation of the Chapter.
               * Directed the completion of the Key Chapter Application. The UWGK Chapter won this award for the 7th time in a row, making us the longest-winning Chapter in Canada. 
