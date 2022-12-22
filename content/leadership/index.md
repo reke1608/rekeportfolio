@@ -40,8 +40,8 @@ sections:
               * Assisted with the coordination of all publicity for the Chapter events and activities.
               * Took pictures to include in the UW-GK independent website.
               * Assisted with the development of an initiative to network with members and promote GK opportunities and benefits.
-        - title: President 
-          company: Golden Key International Honour Society, University of Winnipeg Chapter 
+        - title: Vice President Events 
+          company: University of Winnipeg International Students Union (UWISU) 
           company_url: ''
           company_logo: goldenkey
           location: Winnipeg, MB
