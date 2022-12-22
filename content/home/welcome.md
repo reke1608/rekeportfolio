@@ -28,7 +28,7 @@ content:
         icon: user
         icon_pack: fas
         text: Learn more
-        url: ../people/
+        url: ../author/ferdinand-avikpe/
     - title: Academics, leadership and service...
       content: These three pillars have been the backbone of my work. 
       align: left
