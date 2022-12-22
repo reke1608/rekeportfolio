@@ -99,8 +99,8 @@ sections:
           company_url: ''
           company_logo: chemsa
           location: Winnipeg, MB
-          date_start: '2021-06-01'
-          date_end: ''
+          date_start: '2020-03-01'
+          date_end: '2022-03-01'
           description: |2-
               * Provided support to members and the executive team.
         - title: Secretary
