@@ -28,15 +28,19 @@ sections:
               * Work with Chapter Advisors and Officers to plan the annual calendar of activities.
               * Coordinate the New Member Recognition Event.
               * Aim for representation at the annual regional (Canadian) and biennial international conferences.
-        - title: Event Planner
-          company: Chemistry Students' Association (CHEMSA) - University of Winnipeg 
+        - title: President 
+          company: Golden Key International Honour Society, University of Winnipeg Chapter 
           company_url: ''
-          company_logo: chemsa
+          company_logo: goldenkey
           location: Winnipeg, MB
-          date_start: '2019-09-01'
-          date_end: '2020-03-01'
+          date_start: '2021-06-01'
+          date_end: ''
           description: |2-
-              * Worked with team to successfully organize a pumpkin carving contest in October 2019 and a party in February 2020 for the academic year. The theme was “Ultraviolet Catastrophe.” Turnout was massive, with attendance from other science student groups. Through both events, we were able to fundraise for our annual scholarship and future events. 
+              * Ensure the successful operation of the Chapter.
+              * Directed the completion of the Key Chapter Application. The UWGK Chapter won this award for the 7th time in a row, making us the longest-winning Chapter in Canada. 
+              * Work with Chapter Advisors and Officers to plan the annual calendar of activities.
+              * Coordinate the New Member Recognition Event.
+              * Aim for representation at the annual regional (Canadian) and biennial international conferences.
         - title: Director of Marketing
           company: Golden Key International Honour Society, University of Winnipeg Chapter 
           company_url: ''
