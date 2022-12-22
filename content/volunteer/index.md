@@ -10,13 +10,13 @@ sections:
   - block: collection
     id: section-1
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: 
+      subtitle: 
+      text: “Volunteering is at the very core of being a human.  No one has made it through life without someone else’s help.” – Heather French Henry
       # Display content from the `content/post/` folder
       filters:
-        folders:
-          - post
+        folders: post
+          - 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
