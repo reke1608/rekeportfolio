@@ -31,19 +31,6 @@ sections:
         - title: Director of Marketing
           company: Golden Key International Honour Society, University of Winnipeg Chapter 
           company_url: ''
-          company_logo: chemsa
-          location: Winnipeg, MB
-          date_start: '2021-06-01'
-          date_end: '2022-08-01'
-          description: |2-
-              * Ensure the successful operation of the Chapter.
-              * Directed the completion of the Key Chapter Application. The UWGK Chapter won this award for the 7th time in a row, making us the longest-winning Chapter in Canada. 
-              * Work with Chapter Advisors and Officers to plan the annual calendar of activities.
-              * Coordinate the New Member Recognition Event.
-              * Aim for representation at the annual regional (Canadian) and biennial international conferences.
-        - title: Director of Marketing
-          company: Golden Key International Honour Society, University of Winnipeg Chapter 
-          company_url: ''
           company_logo: goldenkey
           location: Winnipeg, MB
           date_start: '2021-02-01'
@@ -94,15 +81,6 @@ sections:
               * Kept members up to date with association events.
               * Maintained correspondence and records for the association.
               * Worked with the executive team and Biology students’ group to successfully organize a fundraiser on Valentine’s Day.
-        - title: Secretary  
-          company: Chemistry Students' Association (CHEMSA) - University of Winnipeg 
-          company_url: ''
-          company_logo: chemsa
-          location: Winnipeg, MB
-          date_start: '2020-03-01'
-          date_end: '2022-03-01'
-          description: |2-
-              * Provided support to members and the executive team.
         - title: Secretary
           company: Chemistry Students' Association (CHEMSA) - University of Winnipeg
           company_url: ''
