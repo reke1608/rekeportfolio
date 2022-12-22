@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: A glimpse into my projects...
+title: A glimpse into my past projects...
 subtitle:
 
 content:
@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: project
 design:
-  view: 3
+  view: 5
   columns: '1'
 ---
