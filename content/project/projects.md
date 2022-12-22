@@ -1,22 +1,16 @@
-widget: portfolio
-headless: true  # This file represents a page section.
+widget: project
+headless: true  
 
 # ... Put Your Section Options Here (title etc.) ...
 title: My Projects
 subtitle: ''
 
 content:
-  # Choose which content to display in the widget
   filters:
     # Folders to display content from
     folders:
       - project
-    # Uncomment below to only show content with specific tags:
-#    tags:
-#      - Machine Learning
-    # Uncomment below to exclude content with specific tags:
-#    exclude_tags:
-#      - preface    
+   
     # Uncomment below to show specific Hugo Page kinds
     kinds:
       - page
