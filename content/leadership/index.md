@@ -63,7 +63,7 @@ sections:
         - title: Vice President 
           company: Students of Science Association (SOSA) - University of Winnipeg
           company_url: ''
-          company_logo: goldenkey
+          company_logo: sosa
           location: Winnipeg, MB
           date_start: '2020-03-01'
           date_end: '2022-04-01'
@@ -73,7 +73,7 @@ sections:
         - title: Secretary
           company: Students of Science Association (SOSA) - University of Winnipeg 
           company_url: ''
-          company_logo: goldenkey
+          company_logo: sosa
           location: Winnipeg, MB
           date_start: '2019-09-01'
           date_end: '2020-03-01'
@@ -84,7 +84,7 @@ sections:
         - title: Secretary
           company: Chemistry Students' Association (CHEMSA) - University of Winnipeg
           company_url: ''
-          company_logo: goldenkey
+          company_logo: chemsa
           location: Winnipeg, MB
           date_start: '2020-03-01'
           date_end: '2022-03-01'
@@ -94,7 +94,7 @@ sections:
         - title: Event Planner
           company: Chemistry Students' Association (CHEMSA) - University of Winnipeg 
           company_url: ''
-          company_logo: goldenkey
+          company_logo: chemsa
           location: Winnipeg, MB
           date_start: '2019-09-01'
           date_end: '2020-03-01'
