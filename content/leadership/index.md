@@ -100,13 +100,13 @@ sections:
           date_end: '2020-03-01'
           description: |2-
               * Worked with team to successfully organize a pumpkin carving contest in October 2019 and a party in February 2020 for the academic year. The theme was “Ultraviolet Catastrophe.” Turnout was massive, with attendance from other science student groups. Through both events, we were able to fundraise for our annual scholarship and future events. 
-        - title: President 
-          company: Golden Key International Honour Society, University of Winnipeg Chapter 
+        - title: Event Planner 
+          company: Chemistry Students' Association (CHEMSA) - University of Winnipeg 
           company_url: ''
           company_logo: goldenkey
           location: Winnipeg, MB
-          date_start: '2021-06-01'
-          date_end: ''
+          date_start: '2019-09-01'
+          date_end: '2020-03-01'
           description: |2-
               * Worked with team to successfully organize a pumpkin carving contest in October 2019 and a party in February 2020 for the academic year. The theme was “Ultraviolet Catastrophe.” Turnout was massive, with attendance from other science student groups. Through both events, we were able to fundraise for our annual scholarship and future events. 
     design:
