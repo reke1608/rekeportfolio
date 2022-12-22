@@ -40,6 +40,19 @@ sections:
               * Assisted with the coordination of all publicity for the Chapter events and activities.
               * Took pictures to include in the UW-GK independent website.
               * Assisted with the development of an initiative to network with members and promote GK opportunities and benefits.
+        - title: President 
+          company: Golden Key International Honour Society, University of Winnipeg Chapter 
+          company_url: ''
+          company_logo: goldenkey
+          location: Winnipeg, MB
+          date_start: '2021-06-01'
+          date_end: ''
+          description: |2-
+              * Ensure the successful operation of the Chapter.
+              * Directed the completion of the Key Chapter Application. The UWGK Chapter won this award for the 7th time in a row, making us the longest-winning Chapter in Canada. 
+              * Work with Chapter Advisors and Officers to plan the annual calendar of activities.
+              * Coordinate the New Member Recognition Event.
+              * Aim for representation at the annual regional (Canadian) and biennial international conferences.
         - title: Vice President Events 
           company: University of Winnipeg International Students Union (UWISU)
           company_url: ''
