@@ -28,18 +28,18 @@ sections:
               * Work with Chapter Advisors and Officers to plan the annual calendar of activities.
               * Coordinate the New Member Recognition Event.
               * Aim for representation at the annual regional (Canadian) and biennial international conferences.
-        - title: Director of Marketing
-          company: Golden Key International Honour Society, University of Winnipeg Chapter 
-          company_url: ''
-          company_logo: goldenkey
-          location: Winnipeg, MB
-          date_start: '2021-02-01'
-          date_end: '2021-05-01'
-          description: |2-
-              * Worked under the supervision of the VP of Marketing.
-              * Assisted with the coordination of all publicity for the Chapter events and activities.
-              * Took pictures to include in the UW-GK independent website.
-              * Assisted with the development of an initiative to network with members and promote GK opportunities and benefits.
+                        - title: Director of Marketing
+                          company: Golden Key International Honour Society, University of Winnipeg Chapter 
+                          company_url: ''
+                          company_logo: goldenkey
+                          location: Winnipeg, MB
+                          date_start: '2021-02-01'
+                          date_end: '2021-05-01'
+                          description: |2-
+                              - Worked under the supervision of the VP of Marketing.
+                              - Assisted with the coordination of all publicity for the Chapter events and activities.
+                              - Took pictures to include in the UW-GK independent website.
+                              - Assisted with the development of an initiative to network with members and promote GK opportunities and benefits.
         - title: Vice President Events 
           company: University of Winnipeg International Students Union (UWISU)
           company_url: ''
