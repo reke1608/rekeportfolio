@@ -12,7 +12,7 @@ sections:
     content:
       title: 
       subtitle: 
-      text: 
+      text: “Volunteering is at the very core of being a human.  No one has made it through life without someone else’s help.” – Heather French Henry
       # Display content from the `content/post/` folder
       filters:
         folders:
