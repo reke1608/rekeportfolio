@@ -4,23 +4,23 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: News
-    url: post
+    - name: About
+    url: author/ferdinand-avikpe
     weight: 10
-  - name: People
-    url: people
-    weight: 20
   - name: Research
     identifier: research
-    weight: 30
+    weight: 20
   - name: Projects 
     parent: research
     url: project
-    weight: 20
+    weight: 10
   - name: Publications 
     parent: research
     url: publication
-    weight: 20
+    weight: 10
+  - name: Teaching 
+    url: teaching
+    weight: 30 
   - name: Experience
     identifier: experience
     weight: 40
@@ -35,10 +35,4 @@ main:
   - name: Contact
     url: contact
     weight: 50
-  - name: About
-    url: author/ferdinand-avikpe
-    weight: 60
-  - name: Teaching 
-    url: teaching
-    weight: 70 
 
