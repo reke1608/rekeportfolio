@@ -1,7 +1,4 @@
-- block: portfolio
-    id: projects
-    content:
-      title: Projects
+title: Projects
       filters:
         folders:
           - project
