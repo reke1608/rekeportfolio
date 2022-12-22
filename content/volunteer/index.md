@@ -8,15 +8,15 @@ type: landing
 sections:
   # A section to display blog posts
   - block: collection
-    id: section-1
+    id: 
     content:
       title: 
       subtitle: 
       text: “Volunteering is at the very core of being a human.  No one has made it through life without someone else’s help.” – Heather French Henry
       # Display content from the `content/post/` folder
       filters:
-        folders: post
-          - 
+        folders:
+          - post
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
