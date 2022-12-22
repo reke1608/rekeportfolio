@@ -18,7 +18,7 @@ sections:
         - title: CEO
           company: GenCoin
           company_url: ''
-          company_logo: uofw
+          company_logo: uwinnipeg
           location: California
           date_start: '2021-01-01'
           date_end: ''
