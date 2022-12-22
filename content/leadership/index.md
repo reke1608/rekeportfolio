@@ -43,7 +43,7 @@ sections:
         - title: Vice President Events 
           company: University of Winnipeg International Students Union (UWISU)
           company_url: ''
-          company_logo: goldenkey
+          company_logo: isu
           location: Winnipeg, MB
           date_start: '2021-09-01'
           date_end: '2022-04-01'
@@ -52,7 +52,7 @@ sections:
         - title: President 
           company: University of Winnipeg Nigerian Students' Association (UWNSA) 
           company_url: ''
-          company_logo: goldenkey
+          company_logo: nsa 
           location: Winnipeg, MB
           date_start: '2021-09-01'
           date_end: '2022-08-01'
