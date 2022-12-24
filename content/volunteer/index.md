@@ -12,7 +12,7 @@ sections:
     content:
       title: 
       subtitle: 
-      text:''
+      text: 
       # Display content from the `content/post/` folder
       filters:
         folders:
