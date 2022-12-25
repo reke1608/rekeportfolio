@@ -21,10 +21,10 @@ publication_types: ['1']
 publication: Randy Kobes Undergraduate Poster Symposium, University of Winnipeg, Winnipeg, Manitoba 
 publication_short: 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In recent years, there has been a significant increase in the demand for plant proteins as an alternative to animal proteins as plant proteins are becoming an appealing alternative in the hunt for new and sustainable protein sources. It is important that an efficient protein extraction method must be devised prior to any extraction and analysis of plant proteins. The objective of this study was to extract and purify the protein and polypeptide components in the seeds of Garcinia kola.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
   - Undergraduate
