@@ -14,6 +14,10 @@ main:
     parent: research
     url: project
     weight: 10
+  - name: Presentations
+    parent: research
+    url: presentation
+    weight: 10
   - name: Publications 
     parent: research
     url: publication
