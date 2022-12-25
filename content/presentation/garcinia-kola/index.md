@@ -1,10 +1,10 @@
 ---
 title: 'Separation and purification of the protein content in Garcinia kola'
 authors:
-  - Avikpe, F. 
-  - Eze, M.
-  - Galka, J.
-  - Ata, A.
+  - Avikpe F.
+  - Eze M.
+  - Galka J.
+  - Ata A.
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
