@@ -1,5 +1,5 @@
 ---
-title: Winnipeg Big Brothers, Big Sisters
+title: Big Brothers, Big Sisters of Winnipeg
 summary: Involved mentoring children and youth and helping them become better version of themselves. Also acted as a source of emotional and confidential support to youth and children in my care. 
 date: 2022-12-05
 ---
