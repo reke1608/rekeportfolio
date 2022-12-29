@@ -16,8 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: avikpeferdinand@outlook.com
-  phone: (431) 337-8623
-
+ 
  
   #contact_links:
   #  - icon: comments
