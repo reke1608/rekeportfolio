@@ -15,18 +15,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Lab Demonstrator
-          company: Department of Biology, University of Winnipeg
-          company_url: ''
-          company_logo: uwinnipeg
-          location: Winnipeg, MB
-          date_start: '2021-09-01'
-          date_end: '2022-06-01'
-          description: |2-
-              - Guided over 48 students in performing lab procedures, graded quizzes and assignments, and provided feedback to ensure students understood the material and stayed on track.  
-              - Courses:
-                 - BIOL-2902: Biology of Bacteria and Archaea (Fall 2021)
-                 - BIOL-2301: Genetics (Winter 2022, Spring 2022)
         - title: Teaching Assistant
           company: Department of Chemistry, University of Winnipeg
           company_url: ''
@@ -39,25 +27,13 @@ sections:
               - Held office hours in addition to tutorials to provide extra support for students. In an end-of-term course evaluation, 100% of students found the tutorials and office hours extremely helpful. 
               - Course:
                  - CHEM-1112: Basic Principles of Chemical Reactivity (Winter 2020, Winter 2021 & Winter 2023)
-        - title: Lab Demonstrator
-          company: Department of Mathematics & Statistics, University of Winnipeg
-          company_url: ''
-          company_logo: uwinnipeg
-          location: Winnipeg, MB
-          date_start: '2021-09-01'
-          date_end: '2022-06-01'
-          description: |2-
-              - Conducted weekly lab tutorials for up to 30 students, including sharing supporting materials for lectures, which received favourable responses from students, with 95% agreeing that the lab tutorials were helpful in their studying. 
-              - Graded assignments and midterms to provide sufficient feedback on course expectations.
-              - Course:
-                 - MATH-1104: Introduction to Calculus II (Winter 2022)
         - title: Marker
           company: Departments of Mathematics & Statistics, Anthropology, Chemistry, University of Winnipeg
           company_url: ''
           company_logo: uwinnipeg
           location: Winnipeg, MB
           date_start: '2021-09-01'
-          date_end: '2022-05-01'
+          date_end: ''
           description: |2-
               - Graded students’ assignments, lab reports, quizzes, midterms, and final exams to provide tailored feedback on course expectations and outcomes. This was done for different math, chemistry, and anthropology courses. 
               - Courses:
@@ -73,6 +49,30 @@ sections:
                  - CHEM-2502 Lab: Introduction to Biochemistry (Winter 2022)
                  - MATH-2103: Differential Equations II (Winter 2022)
                  - CHEM-4506 Lab: Methods in Biochemistry (Winter 2023)
+        - title: Lab Demonstrator
+          company: Department of Biology, University of Winnipeg
+          company_url: ''
+          company_logo: uwinnipeg
+          location: Winnipeg, MB
+          date_start: '2021-09-01'
+          date_end: '2022-06-01'
+          description: |2-
+              - Guided over 48 students in performing lab procedures, graded quizzes and assignments, and provided feedback to ensure students understood the material and stayed on track.  
+              - Courses:
+                 - BIOL-2902: Biology of Bacteria and Archaea (Fall 2021)
+                 - BIOL-2301: Genetics (Winter 2022, Spring 2022)
+        - title: Lab Demonstrator
+          company: Department of Mathematics & Statistics, University of Winnipeg
+          company_url: ''
+          company_logo: uwinnipeg
+          location: Winnipeg, MB
+          date_start: '2021-09-01'
+          date_end: '2022-06-01'
+          description: |2-
+              - Conducted weekly lab tutorials for up to 30 students, including sharing supporting materials for lectures, which received favourable responses from students, with 95% agreeing that the lab tutorials were helpful in their studying. 
+              - Graded assignments and midterms to provide sufficient feedback on course expectations.
+              - Course:
+                 - MATH-1104: Introduction to Calculus II (Winter 2022)
         - title: Tutor
           company: Math & Science Tutoring Centre and Aboriginal Student Services Centre, University of Winnipeg
           company_url: ''
