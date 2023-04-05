@@ -4,22 +4,26 @@ avatar_filename: avatar.png
 superuser: true
 
 # Role/position
-role: Recent graduate
+role: Incoming PhD Student
 # Organizations/Affiliations
-organizations:
-  - name: 
+organizations: 
+  - name: University of Toronto
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include molecular genetics, biochemistry and nanotecnnology. 
+bio: My research interests include tissue engineering, molecular genetics, biochemistry and nanotecnnology. 
 
 interests:
+  - Tissue Engineering
   - Nanomedicine
   - Cell Biochemistry 
   - Molecular Genetics
 
 education:
   courses:
+    - course: PhD in Biomedical Engineering
+      institution: University of Toronto
+      year: Present
     - course: BSc (Hons) in Biochemistry 
       institution: The University of Winnipeg
       year: 2022
