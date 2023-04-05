@@ -33,12 +33,12 @@ sections:
           company_logo: uwinnipeg
           location: Winnipeg, MB
           date_start: '2020-01-01'
-          date_end: '2021-04-01'
+          date_end: ''
           description: |2-
-              - Conducted tutorials for 6 hours weekly to review material covered in lectures, including creating supporting materials for lectures that received positive responses from students. As a result, a B grade average was maintained in the course in both years. 
+              - Conducted weekly tutorials for at least 4 hours to review material covered in lectures, including creating supporting materials for lectures that received positive responses from students. As a result, a B grade average has been maintained in the course over the years. 
               - Held office hours in addition to tutorials to provide extra support for students. In an end-of-term course evaluation, 100% of students found the tutorials and office hours extremely helpful. 
               - Course:
-                 - CHEM-1112: Basic Principles of Chemical Reactivity (Winter 2020, Winter 2021)
+                 - CHEM-1112: Basic Principles of Chemical Reactivity (Winter 2020, Winter 2021 & Winter 2023)
         - title: Lab Demonstrator
           company: Department of Mathematics & Statistics, University of Winnipeg
           company_url: ''
@@ -69,9 +69,10 @@ sections:
                  - ANTH-2202: Archaeology of North America (Fall 2021, Winter 2022)
                  - MATH-2106: Intermediate Calculus II (Winter 2022)
                  - MATH-2904: Mathematics for Elementary/Middle Years Teachers II (Winter 2022)
-                 - CHEM-3503 Lab: Intermediate Biochemistry II (Winter 2022)
+                 - CHEM-3503 Lab: Intermediate Biochemistry II (Winter 2022, Winter 2023)
                  - CHEM-2502 Lab: Introduction to Biochemistry (Winter 2022)
                  - MATH-2103: Differential Equations II (Winter 2022)
+                 - CHEM-4506 Lab: Methods in Biochemistry (Winter 2023)
         - title: Tutor
           company: Math & Science Tutoring Centre and Aboriginal Student Services Centre, University of Winnipeg
           company_url: ''
