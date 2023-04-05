@@ -69,7 +69,7 @@ user_groups:
   - '[]'
 ---
 
-I am a recent graduate from the University of Winnipeg who majored in Biochemistry and Mathematics. In my introductory and upper level course work, I have developed a strong passion for science specifically in the fields of biochemistry, molecular genetics, biomedical engineering (nanotechnology) and mathematics. This has made me extremely interested in pursuing exciting research and work opportunities in these fields. 
+I am an incoming PhD student in Biomedical Engineering at the University of Toronto. As a recent graduate from the University of Winnipeg who majored in Biochemistry and Mathematics, I developed a strong passion for science specifically in the fields of biochemistry, molecular genetics, biomedical engineering (nanotechnology) and mathematics in my introductory and upper level course work. This made me extremely interested in pursuing exciting research and work opportunities in these fields. 
 
 As a former international student, I have been exposed to a wide range of individuals and cultures. As a result, I have been able to rapidly adjust to changes and develop a wider perspective. I am always interested in learning new things and enjoy troubleshooting and fixing problems. To sustain productivity, I am a detail-oriented person who keeps my objectives, tasks and goals structured. 
 
